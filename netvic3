@@ -8,6 +8,9 @@ vless://77e69c70-31b4-44ea-af46-4664df9a614c@45.130.125.218:8443?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443?type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 trojan://humanity@141.101.90.101:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&fp=ios&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 trojan://humanity@104.16.174.12:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland
+vless://5202ad2b-27ec-4998-a166-a90ebcf6daf0@81.163.23.125:443?encryption=none&flow=&type=grpc&mode=gun&authority=&security=reality&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=7e2a9d4c5f18b0#%20VII
+vless://5202ad2b-27ec-4998-a166-a90ebcf6daf0@ru.save-node.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=ru.save-node.com&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#VIP
+vless://5202ad2b-27ec-4998-a166-a90ebcf6daf0@81.163.22.94:443?encryption=none&flow=&type=grpc&mode=gun&authority=&security=reality&fp=qq&sni=ads.x5.ru&pbk=c8fQY4Ywo9NPZS0CuujyztRI-8z0D7fREoz8laMDVkQ&sid=7e2a9d4c5f18b0#%20XI
 vless://b4c5aecd-ec7e-415c-88e3-1f32031c6eb9@fin9vless.outlinebot.ru:5443?encryption=none&type=xhttp&mode=auto&path=/live/stream&security=reality&fp=random&sni=max.ru&pbk=z88_z8EETNAQqsTq8iIvWHOdp_nkU3GPnZ6EZ-2gKGw&sid=d4&spx=/news#VIP
 vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.129.57:80?encryption=none&type=xhttp&mode=auto&host=InternetAzadRobot07gt745.global.ssl.fastly.net&path=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland
 trojan://humanity@198.62.62.23:443?type=ws&path=/assignment&security=tls&fp=chrome&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland
